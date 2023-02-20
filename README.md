@@ -18,10 +18,10 @@ This repository was created for Data Structures course (Fall 2021 held at SBU) p
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">Bank Finder Using KD-Tree and Trie Data Structures</h3>
+  <h3 align="center">Bank Finder Using Data Structures</h3>
 
   <p align="center">
-    Implementing KD-Tree and Trie Data Structures in a example application
+    Implementing KD-Tree and Trie-Tree Data Structures in a example application
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a> -->
     <!-- <br /> -->
